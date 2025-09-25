@@ -1,1 +1,1 @@
-link:https://c.github.io/insta/
+link: https://gokulan0911.github.io/INSTA/
